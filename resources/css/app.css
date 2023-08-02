@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+   /* Slider */
+/* .slick-track{
+    width: 997px;
+    
+} */
+/* .slick-slide
+{
+    width: 154px;
+    float: right;
+} */
+.slick-track{
+    width: 500px;
+}
+.slider-for{
+    width: 500px;
+}
+.slick-list{
+    padding: none;
+}
+.readmore__content {
+    max-width: 55rem;
+    width: 100%;
+    /* display: flex; */
+}
+
